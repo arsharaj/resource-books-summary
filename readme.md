@@ -4,13 +4,7 @@
 
 ### Table of Contents
 
-- Book 1
-- Book 2
-- Book 3
-
-### Website
-
-![Books Summary](screenshot.png)
+- Academic Books
 
 ### Folder Structure
 
@@ -20,6 +14,8 @@ root
 └── src
     ├── assets
     └── content
+        └── docs
+            └── books-academic
 ```
 
 ### License
