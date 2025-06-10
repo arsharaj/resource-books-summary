@@ -22,7 +22,7 @@
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "deploy": "npm run build && gh-pages -d dist -b gh-pages",
+    "deploy": "npm run build && gh-pages -d dist -b gh-pages -r https://$GH_TOKEN@github.com/arsharaj/resource-books-summary.git",
     "astro": "astro"
   },
   "dependencies": {
