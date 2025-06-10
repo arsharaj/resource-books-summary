@@ -39,3 +39,38 @@ description: A guide to the secret art of free and open source software developm
 * Expertise is more often than not measured in the time you've spent deliberately practicing.
 * It takes around 20 hours of deliberate practice to learn almost anything.
 * It takes around 10,000 hours of deliberate practice to become an expert in almost anything.
+
+### Chapter 2 : Choosing which technologies and domains to focus on
+
+**Step 1 - Visualise yourself in your dream job**
+
+* You should be putting time into practicing the specific set of skills required for your dream job.
+* Every piece of code you add to your resume should be an investmest into your future.
+* Visualise your dream job and write down as many key characteristics you envision it to have.
+
+**Step 2 - Look for companies that interest you**
+
+* Decide on which problem domain to focus on.
+* Use LinkedIn.com to find the kinds of companies you're interested in.
+* If enough companies within a particular problem domain don't interest you, pick another.
+* Add any interesting technologies and subdomains you encounter to your list from step 1.
+
+**Step 3 - Look for jobs that interest you**
+
+* Decide on which technologies and subdomains to focus on.
+* Use job search engines to find the kinds of jobs you're interested in.
+* If enough jobs within a particular problem domain don't interest you, pick another.
+* Add any interesting technologies and subdomains you encounter to your list from step 2.
+
+**Step 4 - Define a specific career goal**
+
+* Jobs for a particular specialisation are, for the most part, cut from the same mould.
+* Mark duplicate entries on your list with an asterisk as these will almost certainly be required.
+* Most technologies and subdomains that appear only once can be filtered out.
+
+**Step 5 - Get your priorities straight**
+
+* Assign each item on your list an interest level rating out of 10.
+* Add to each item a rating out of 5 on how much previous experience you've had with it.
+* Split asterisked and non-asterisked items, then rearrange each set according to total score.
+* Recombine the list with asterisked items at the top and non-asterisked items at tht bottom.
