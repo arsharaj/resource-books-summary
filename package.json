@@ -8,17 +8,21 @@
   "version": "0.0.1",
   "license": "MIT",
   "repository": "github:arsharaj/resource-books-summary",
+  "homepage": "https://arsharaj.github.io/resource-books-summary",
   "keywords": [
     "arsharaj",
     "books",
     "books-summary"
   ],
+  "engines": {
+    "node": ">=18"
+  },
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "deploy": "astro build && gh-pages -d dist",
+    "deploy": "npm run build && gh-pages -d dist -b gh-pages",
     "astro": "astro"
   },
   "dependencies": {
