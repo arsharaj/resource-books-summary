@@ -29,11 +29,11 @@ jobs :
           npm ci
           echo "end : installing dependencies"
 
-      - name : Astro type check
+      - name : Build
         run  : |
-          echo "start : running astro type check"
-          npm run astro check
-          echo "end : running astro type check"
+          echo "start : running build"
+          npm run build
+          echo "end : running build"
 
       - name : Deploy
         if   : github.ref == 'refs/heads/main'
