@@ -7,11 +7,11 @@ export default defineConfig({
 	output: 'static',
 	integrations: [
 		starlight({
-			title: 'Books Summary',
+			title: 'Resource : Books Summary',
 			social: [
 				{
 					icon: 'github',
-					label: 'GitHub',
+					label: 'Github',
 					href: 'https://github.com/arsharaj/resource-books-summary'
 				}
 			],
