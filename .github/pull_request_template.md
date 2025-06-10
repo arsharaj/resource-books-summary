@@ -6,7 +6,7 @@ Please provide a clear and concise description of the changes made in this pull 
 
 ### Related Issue
 
-This pull request is related to issue number : [#Issue Number](https://github.com/arsharaj/repo/issues/issue_number)
+This pull request is related to : [Describe your issue here]
 
 ### Type of Change
 
