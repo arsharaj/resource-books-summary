@@ -15,30 +15,29 @@ jobs :
 
     steps :
       - name : Checkout code
-        uses : actions/checkout@v2
+        uses : actions/checkout@v3
 
-      - name : Set up environment
-        run  : |
-          echo "start : setting up environment"
-          echo "end : setting up environment"
+      - name : Set up nodejs
+        uses : actions/setup-node@v3
+        with :
+          node-version: 20
+          cache: 'npm'
 
       - name : Install dependencies
         run  : |
           echo "start : installing dependencies"
+          npm ci
           echo "end : installing dependencies"
 
-      - name : Run tests
+      - name : Astro type check
         run  : |
-          echo "start : running tests"
-          echo "end : running tests"
-
-      - name : Build project
-        run  : |
-          echo "start : building project"
-          echo "end : building project"
+          echo "start : running astro type check"
+          npm run astro check
+          echo "end : running astro type check"
 
       - name : Deploy
         if   : github.ref == 'refs/heads/main'
         run  : |
           echo "start : deploying project"
+          npm run deploy
           echo "end : deploying project"
