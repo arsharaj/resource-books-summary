@@ -108,3 +108,38 @@ description: A guide to the secret art of free and open source software developm
 * Gather your notes from this chapter and identify common themes or directions.
 * Come up with some one-liner descriptions of a few project ideas from the above themes.
 * Pick the one that you feel you'd hove the most fun with, and ignore the rest for now.
+
+### Chapter 4 : Designing your product
+
+**Step 1 - Come up with a good name**
+
+* It's more motivating to work on something that feels real, than to invest in the imaginary.
+* Your project's title should convey an idea of what it does, and should be easy to remember.
+* Use sourceforge.net to find similar projects, then brainstorm how yours could stand out.
+* Put together a cover image that is simple and will subtly convey a sense of professionalism.
+
+**Step 2 - Write up a project summary**
+
+* Your product summary should be descriptive, unique, discoverable, and marketable.
+* Use adwords.google.com to identify popular keywords for use in your summary.
+* Formulate an elevator pitch for your project that is both brief and detailed at the same time.
+
+**Step 3 - Create a product wish list**
+
+* Use the problems and gaps that wound up under your project idea to form a product wish list.
+* Write each high-level feature as if you were an end-user requesting it from the developer.
+* Also assemble a "not" list containing features that do not fall within the scope of the project.
+
+**Step 4 - Add research to your design**
+
+* You should aim for just enough research to enable you to create smart, simple solutions.
+* You have to grasp the "what" completely before you can determine the "how" and "why".
+* Assign each item in your product wish list a research requirement rating out of 5.
+
+**Step 5 - Plan a viable release schedule**
+
+* The only variable force in software development is scope.
+* Adjusting scope between releases allows you to deliver software on time, and on budget.
+* A deadline is really the time in which you have to get as many features done as possible.
+* Arrange your wish list in order of importance from highest to lowest.
+* As you complete each feature, you should be able to release a new, fully-functional version.
