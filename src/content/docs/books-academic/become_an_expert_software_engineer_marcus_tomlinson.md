@@ -74,3 +74,37 @@ description: A guide to the secret art of free and open source software developm
 * Add to each item a rating out of 5 on how much previous experience you've had with it.
 * Split asterisked and non-asterisked items, then rearrange each set according to total score.
 * Recombine the list with asterisked items at the top and non-asterisked items at tht bottom.
+
+### Chapter 3 : Coming up with a good project idea
+
+**Step 1 - Pick a concentrated subject matter**
+
+* Projects fail when they do not deliver on what they promise.
+* Rather do simple well, than complex badly.
+* Try to concentrate on showcasing just the top item on your list from the previous chapter.
+
+**Step 2 - Look for problems that need solving**
+
+* Software is created to solve problems, hence problems are a great source of inspiration.
+* Regardless of what you're making, at least some of your time will be spent developing its API.
+* Use stackoverflow.com to find common issues associated with your subject matter.
+
+**Step 3 - Look for gaps that need filling**
+
+* Learning from those who came before you is another great source of inspiration.
+* Your aim should be to bring something new to the table.
+* Use sourceforge.net to find popular projects associated with your subject matter.
+* Note down any aspects that people particularly like or dislike about them from the reviews.
+
+**Step 4 - Decide whether to create or contribute**
+
+* A major advantage to creating is the educational benefit of developing a solution end-to-end.
+* A major advantage to contributing is that it can add value to the company you're applying to.
+* I lean towards creating as its advantages are greater, and its disadvantages can be avoided.
+* All you need to create good software is a personal interest in seeing the problem solved.
+
+**Step 5 - Establish a clear objective**
+
+* Gather your notes from this chapter and identify common themes or directions.
+* Come up with some one-liner descriptions of a few project ideas from the above themes.
+* Pick the one that you feel you'd hove the most fun with, and ignore the rest for now.
