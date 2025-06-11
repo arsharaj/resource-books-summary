@@ -143,3 +143,44 @@ description: A guide to the secret art of free and open source software developm
 * A deadline is really the time in which you have to get as many features done as possible.
 * Arrange your wish list in order of importance from highest to lowest.
 * As you complete each feature, you should be able to release a new, fully-functional version.
+
+### Chapter 5 : Setting up an open source project
+
+**Step 1 - Pick an open source license**
+
+* With free software, the definition of "free" depends on the license used.
+* Understanding licenses is useful in licensing your own projects, as well as integrating others.
+* Credit to the original author is honoured by complying with the appropriate license terms.
+* Protection of trademark is honoured in much the same way that credit to the original author is.
+* A license may or may not be compatible with other free or proprietary licenses.
+* Protection against patent law grants all users free licenses to any patents used legally in the project.
+* Stick with the Apache, BSD, MIT and LGPL (when it makes sense in a library) licenses.
+* For more information on these licenses and their variations, see : opensource.org/licenses.
+
+**Step 2 - Pick a version control system**
+
+* You will not be taken seriously if your project's source is not managed by version control.
+* A detailed project development history is almost mandatory in producing successful software.
+* Choose a VCS that is popular to portray a sense of professionalism and familiarity to others.
+* See the wikipedia article : Comparison of source code hosting facilities for popular VCS's.
+
+**Step 3 - Pick a canned hosting site**
+
+* Avoid the headache of constructing a complex project website by using canned hosting.
+* See the wikipedia article : Comparison of source code hosting facilities for popular hosting sites.
+* You could even create multiple pages for your project across more than one hosting site.
+
+**Step 4 - Pick a web hosting site**
+
+* Your project will be taken more seriously if it has its own dedicated website as well.
+* Registering a domain name is optional, but you will at least need to register a web hosting plan.
+* Use a document generator to create API documentation for your website.
+* See the wikipedia article : Comparison of documentation generators.
+* Writing documentation alongside your code means that it too will be stored in VCS.
+
+**Step 5 - Create and configure your project**
+
+* The act of creating a project page signifies that project's inception.
+* Browse to your chosen canned hosting site, sign up and create a new project.
+* Enable the bug tracker and add your wish list items to it.
+* Enable the VCS and initialize a new "trunk" or "master" branch.
