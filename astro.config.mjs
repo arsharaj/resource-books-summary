@@ -18,6 +18,7 @@ export default defineConfig({
 			sidebar: [
 				{
 					label: 'Academic Books',
+					collapsed: true,
 					autogenerate: { directory: 'books-academic' },
 				}
 			],
