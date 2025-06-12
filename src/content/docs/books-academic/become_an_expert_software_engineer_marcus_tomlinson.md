@@ -2,7 +2,6 @@
 title: Become An Expert Software Engineer
 description: A guide to the secret art of free and open source software development
 ---
-
 > Marcus Tomlinson
 
 ### Chapter 1 : Reprogramming yourself for success
@@ -184,3 +183,40 @@ description: A guide to the secret art of free and open source software developm
 * Browse to your chosen canned hosting site, sign up and create a new project.
 * Enable the bug tracker and add your wish list items to it.
 * Enable the VCS and initialize a new "trunk" or "master" branch.
+
+### Chapter 6 : Managing a part time work schedule
+
+**Step 1 - Divide and conquer**
+
+* Focus your energy on solving just the top item of your release schedule from chapter 4.
+* The problems we face are naturally complex i.e. can be broken down into smaller tasks.
+* First and foremost, you should create a task for research.
+* As long as your current task is well defined, the rest can be reevaluated as you go.
+* Start with a generic list of tasks such as : define api, write tests and implement back end.
+
+**Step 2 - Practice time management**
+
+* Good time management is a fundamental skill that every engineer should possess.
+* It is far too easy to procrastinate without a manager, or a team depending on you.
+* In software development, work is quantified in terms of complexity.
+* The complexity of a problem is directly proportional to the time required to solve it.
+* Calculate your work rate by assigning a complexity rating of 1, 2, 3, 5, or 8 to each task.
+
+**Step 3 - Avoid distractions**
+
+* While procrastinating can delay your software, distractions can kill it.
+* There are two major forms of distraction you should avoid : physical and digital.
+* If by solving one problem you uncover another, postpone it to a seperate task for later.
+* Avoid premature optimisation.
+
+**Step 4 - Don't rush**
+
+* Rushing a task to completion is just as harmful as taking too long to complete it.
+* Put your hobbies on hold, work whenever you can and avoid taking breaks longer than a week.
+* Try to plan a work schedule that exceeds 20 hours.
+
+**Step 5 - Enjoy yourself**
+
+* "Professional" development does not necessarily have to mean "boring" development.
+* At the very least, just try to make your code as readable as possible.
+* Have fun, be easy on yourself, and be easy on your code.
