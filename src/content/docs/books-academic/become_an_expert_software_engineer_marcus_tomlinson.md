@@ -2,6 +2,7 @@
 title: Become An Expert Software Engineer
 description: A guide to the secret art of free and open source software development
 ---
+
 > Marcus Tomlinson
 
 ### Chapter 1 : Reprogramming yourself for success
