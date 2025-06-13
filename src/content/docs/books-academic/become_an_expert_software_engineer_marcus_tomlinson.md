@@ -221,3 +221,45 @@ description: A guide to the secret art of free and open source software developm
 * "Professional" development does not necessarily have to mean "boring" development.
 * At the very least, just try to make your code as readable as possible.
 * Have fun, be easy on yourself, and be easy on your code.
+
+### Chapter 7 : Writing good software
+
+**Step 1 - Speak your project's language**
+
+* Investigating into your chosen programming language should naturally form part of research.
+* In software engineering, theory can not be fully appreciated until it is practiced.
+* I'd recommend that you start with a good book or two on the subject.
+* For free and non-free books see : github.com/vhj/free-programming-books and amazon.com.
+
+**Step 2 - Lay a solid foundation**
+
+* Start with a minimum project structure that "builds" with one, easy-to-perform action.
+* Add automatic code validation as part of your project's "build".
+* Branch from truck for each version such that all changes can be traced back to a release.
+* When it comes to using version control : commit everything and commit often.
+
+**Step 3 - Design a user friendly interface**
+
+* Any good UI design begins with the design of a good API.
+* Prefer simple over complex, use standard types and avoid long parameter lists.
+* Every entity in your API should have only one well-defined, cohesive responsibility.
+* Your API should exist to help its users, not to dump complex responsibilities onto them.
+* Strongly coupled code is very difficult to maintain, and near impossible to reuse.
+* Prefer dependency injection over inheritance, with the exception of abstract interfaces.
+* Add document generator placeholders to each new entity you define.
+
+**Step 4 - Put your interface to the test**
+
+* Write a set of applications that, when run, will execute a sequence of tests against your API.
+* New tests verify that new code works, and existing tests ensure that existing code still works.
+* There are two main types of testing : unit (white box) and integration (black box).
+* When fixing a bug in your code, the first thing you should do is write a "regression test".
+* Your error conditions should be tested as thoroughly as your non-error conditions.
+* Incorporate running tests as part of your project's build.
+
+**Step 5 - Implement to the interface design**
+
+* Prefer simple over complex, correct over fast, and safe over insecure.
+* Establish a rational error handling policy for your project, and stick to it consistently.
+* Avoid sharing global data between entities.
+* Update your API documentation by filling in the placeholders you added in step 3.
