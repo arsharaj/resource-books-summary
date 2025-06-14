@@ -263,3 +263,43 @@ description: A guide to the secret art of free and open source software developm
 * Establish a rational error handling policy for your project, and stick to it consistently.
 * Avoid sharing global data between entities.
 * Update your API documentation by filling in the placeholders you added in step 3.
+
+### Chapter 8 : Releasing your project
+
+**Step 1 - Pick a version numbering scheme**
+
+* Pick a numbering scheme up front then version your software in relation to the state of its API.
+* The most common versioning scheme is the three-component system. E.g. "2.4.0"
+* Sometimes development status can be useful as a postfix to your version. E.g. "2.4.0-alpha"
+* There are two directions to software compatibility : forward and backward.
+* There are three major types of software compatibility : binary, source and functional.
+
+**Step 2 - Clean up your project structure**
+
+* Isolate a snapshot of your project into a staging branch and start cleaning up its file structure.
+* A messy file structure strongly implies that the contents of those files are messy as well.
+* Follow conventions used in other popular open source projects by browsing github.com.
+* Create files for : "changes", "license", "install" and "readme".
+
+**Step 3 - Update internal documentation**
+
+* Building and utilising your code should be made as clear and straightforward as possible.
+* "Install" should contain simple guidelines on how to build and install your software.
+* "Readme" should contain the version, a brief description and links to other resources.
+* "License" should contain the full license text for your project's license.
+* "Changes" should contain high-level release notes in reverse chronological order.
+
+**Step 4 - Update external documentation**
+
+* External documentation should be designed such that it alone can make a good impression.
+* First impressions last, so don't cut corners on your project's outward appearance.
+* Use your documentation generator to create a home page for your website.
+* If your software is an application, create seperate home pages for developers and end-users.
+* Keep your canned hosting project page updated.
+
+**Step 5 - Package and release**
+
+* Provide an easy way to download your souce code as an archive.
+* If your software results in an application or binary, provide seperate archives per platform.
+* Stabilise your release, merge it to truck, re-sync development branches, then package.
+* Upload your archives to the "Downloads" section of your canned hosting page.
