@@ -303,3 +303,42 @@ description: A guide to the secret art of free and open source software developm
 * If your software results in an application or binary, provide seperate archives per platform.
 * Stabilise your release, merge it to truck, re-sync development branches, then package.
 * Upload your archives to the "Downloads" section of your canned hosting page.
+
+### Chapter 9 : Marketing and maintaining your software
+
+**Step 1 - Raise awareness of your project**
+
+* The earlier you can get people using your software, the earlier you will get feedback.
+* Ask friends and colleagues to be early adopters to your software.
+* Find one or two of the above to give you a more in-depth review of the code as well.
+* Extend an invitation to your reviewers to contribute to the project.
+* Announce each noteworthy release at the top of your project page or website.
+
+**Step 2 - Market yourself**
+
+* Bare in mind that you are being watched almost as much as your work.
+* Open up some public channels of communication.
+* Be open and honest in everything you say about your software.
+* Avoid being rude to anyone, even towards those who come across as rude to you.
+* Present yourself as professionally as you would like to be treated.
+
+**Step 3 - Market your project**
+
+* Don't force your project down people's throats like a bad advertising campaign.
+* Post your project on softpedia.com so that it can be picked up by other download sites.
+* Provide your software as a solution to any related questions on stackoverflow.com
+* Contribute to forums on groups.google.com where people may be interested in your work.
+
+**Step 4 - Keep an eye out for bugs and questions**
+
+* Don't forget about the maintenance side of software development.
+* Log your own bugs to keep tabs on the others, and deal with security issues discretely.
+* Check stackoverflow.com and your own Q&A services as often as you do your bug tracker.
+* Don't be a pushover, stay true to your product "not" list.
+
+**Step 5 - Establish a rational update policy**
+
+* Software is never finished, only abandoned, but that's not necessarily a bad thing.
+* Don't release too frequently, it can irritate your users and become extremely expensive.
+* Keep your documentation up-to-date, even between releases.
+* Once a project is stable, move on to the next, and update it again only when popularity drops.
