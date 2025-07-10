@@ -1,5 +1,6 @@
 # hidden directories
 .astro/
+.vscode/
 
 # directories
 dist/
